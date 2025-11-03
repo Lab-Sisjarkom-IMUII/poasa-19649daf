@@ -1,0 +1,11 @@
+{
+  "name": "po",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "poasa",
+  "email": "p@gmail.com",
+  "secretKey": "imuii_a6cfb622687acb4c0726e27a875d1d4e855899c1295efff180b8d4c7448c2c14",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/poasa-19649daf.git"
+}
